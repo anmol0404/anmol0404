@@ -1,7 +1,13 @@
-<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aashish+Lakhlan+%7C+Full-Stack+Developer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 ### 🧑‍💻 About Me  
-Hi, I’m **Aashish**, a **Full Stack Developer** with a focus on secure backend development and building reliable, scalable systems.  
-I love building **scalable full-stack apps**, **automation solutions**, and exploring **AI/ML**, **Cybersecurity**, and innovation.  
-Transforming ideas into sleek, user-friendly experiences is my passion. 🌌
+<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aashish+Lakhlan+%7C+Full-Stack+Developer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 ###  
+  
+## 🧑‍💻 About Me
+
+Hi, I’m **Aashish** — a **Full Stack Developer** passionate about building secure, scalable, and reliable systems.
+
+🔹 I build **full-stack web apps**  
+🔹 I create **automation tools**  
+🔹 I explore **AI/ML** and **Cybersecurity**  
+🔹 I turn ideas into **sleek, user-friendly experiences** 🌌
 
 ---
 
