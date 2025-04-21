@@ -86,12 +86,7 @@ Interests	AI/ML, Cybersecurity, Automation, DevOps
 <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="[Your LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a> </p>
 📈 GitHub Stats
 <!-- 📈 GitHub Stats -->
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol0404&show_icons=true&theme=gruvbox" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anmol0404&theme=gruvbox" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol0404&layout=compact&theme=gruvbox" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beavsu&show_icons=true&theme=vue" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=beavsu&theme=vue" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beavsu&layout=compact&theme=vue" width="48%" /> </p>
 
 🌟 Fun Fact
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
