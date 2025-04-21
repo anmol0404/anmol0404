@@ -1,17 +1,38 @@
-<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aashish+Lakhlan+%7C+Full-Stack+Developer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 Building <b>scalable full-stack apps</b>,<b>automation solutions</b> with a passion for innovation. 🌌 Transforming ideas into sleek, user-friendly experiences. 🔍 Exploring <b>AI/ML...</b>, <b>Cybersecurity</b>,
-</b> 
-🧑‍💻 About Me
-💻 Full-Stack Developer with expertise in Node.js, MongoDB, and Next.js.
-🚀 Creator of bots, platforms, and tools that solve real-world problems.
-🌟 Passionate about sharing knowledge through beginner-friendly content (e.g., Node.js tutorials).
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"> </p>
-Category	Technologies
-Languages	JavaScript, TypeScript, Kotlin, Java, Python, C
-Frameworks	Node.js, Express, Telegraf, React, Next.js, Tailwind CSS
-Databases	MongoDB, Firebase
-Tools	Git, Docker Basic, GitHub Actions, Vercel, Netlify, Postman,	ChatGPT API, Telegram API
-Interests	AI/ML, Cybersecurity, Automation, DevOps
+<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aashish+Lakhlan+%7C+Full-Stack+Developer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 ### 🧑‍💻 About Me  
+Hi, I’m **Aashish**, a **Full Stack Developer** with a focus on secure backend development and building reliable, scalable systems.  
+I love building **scalable full-stack apps**, **automation solutions**, and exploring **AI/ML**, **Cybersecurity**, and innovation.  
+Transforming ideas into sleek, user-friendly experiences is my passion. 🌌
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+JavaScript, TypeScript, Kotlin, Java, Python, C
+
+**Frameworks**  
+Node.js, Express, Telegraf, React, Next.js, Tailwind CSS
+
+**Databases**  
+MongoDB, Firebase
+
+**Tools**  
+Git, Docker (Basic), GitHub Actions, Vercel, Netlify, Postman, ChatGPT API, Telegram API
+
+**Interests**  
+AI/ML, Cybersecurity, Automation, DevOps
+
+---
+
+### 🚀 Badge Showcase
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript">  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript">  
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin" alt="Kotlin">  
+  <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java" alt="Java">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python">  
+</p>
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" style="margin: 5px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Vercel" width="30" style="margin: 5px;"> 
 <!-- 🚀 Featured Projects -->
