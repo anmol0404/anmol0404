@@ -33,12 +33,20 @@ AI/ML, Cybersecurity, Automation, DevOps
 ### 🚀 Badge Showcase
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript">  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript">  
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin" alt="Kotlin">  
-  <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java" alt="Java">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python">  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub">  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React">  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js">  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5" alt="HTML">  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3" alt="CSS">  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker">  
+  <img src="https://img.shields.io/badge/VPS%20Management-1E1E1E?style=flat-square" alt="VPS Management">  
 </p>
+
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" style="margin: 5px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Vercel" width="30" style="margin: 5px;"> 
 <!-- 🚀 Featured Projects -->
