@@ -1,4 +1,4 @@
-<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aashish+Lakhlan+%7C+Full-Stack+Developer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 Building <b>scalable full-stack apps</b>, <b>AI-driven tools</b>, and <b>automation solutions</b> with a passion for innovation. 🌌 Transforming ideas into sleek, user-friendly experiences. 🔍 Exploring <b>AI/ML</b>, <b>Cybersecurity</b>,
+<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aashish+Lakhlan+%7C+Full-Stack+Developer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 Building <b>scalable full-stack apps</b>,<b>automation solutions</b> with a passion for innovation. 🌌 Transforming ideas into sleek, user-friendly experiences. 🔍 Exploring <b>AI/ML...</b>, <b>Cybersecurity</b>,
 </b> 
 🧑‍💻 About Me
 💻 Full-Stack Developer with expertise in Node.js, MongoDB, and Next.js.
@@ -9,12 +9,11 @@
 Category	Technologies
 Languages	JavaScript, TypeScript, Kotlin, Java, Python, C
 Frameworks	Node.js, Express, Telegraf, React, Next.js, Tailwind CSS
-Databases	MongoDB, MySQL, Firebase
-Tools	Git, Docker, GitHub Actions, Vercel, Netlify, Postman, Figma
-APIs	ChatGPT API, Telegram API
+Databases	MongoDB, Firebase
+Tools	Git, Docker Basic, GitHub Actions, Vercel, Netlify, Postman,	ChatGPT API, Telegram API
 Interests	AI/ML, Cybersecurity, Automation, DevOps
-🧰 Tool Logos
-<p align="center"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" alt="GitHub Actions" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Vercel" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="30" style="margin: 5px;"> </p>
+
+<p align="center"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="30" style="margin: 5px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" style="margin: 5px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Vercel" width="30" style="margin: 5px;"> 
 <!-- 🚀 Featured Projects -->
 <h2>🚀 Featured Projects</h2>
 
@@ -36,7 +35,7 @@ Interests	AI/ML, Cybersecurity, Automation, DevOps
 <h3>🎬 DromaFlix Website</h3>
 <p>Full-stack platform for drama/anime lovers.</p>
 <ul>
-  <li><strong>Features:</strong> SEO, filters, responsive UI, Telegram bot integration.</li>
+  <li><strong>Features:</strong> filters, responsive UI, Telegram bot integration.</li>
   <li><strong>My Role:</strong> Full-stack developer + VPS deployment.</li>
   <li><strong>Tech:</strong>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb">
