@@ -86,7 +86,13 @@ Interests	AI/ML, Cybersecurity, Automation, DevOps
 <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="[Your LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a> </p>
 📈 GitHub Stats
 <!-- 📈 GitHub Stats -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beavsu&show_icons=true&theme=vue" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=beavsu&theme=vue" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beavsu&layout=compact&theme=vue" width="48%" /> </p>
+ <h2 align="center">📈 GitHub Stats</h2>
+<p align="center" style="background-color:#e8f5e9; padding: 15px; border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol0404&show_icons=true&theme=calm&bg_color=30,e8f5e9,c8e6c9,b2dfdb&title_color=2e7d32&text_color=1b5e20&icon_color=388e3c" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anmol0404&theme=calm&background=FFFFFF00&sideNums=43a047&sideLabels=2e7d32&currStreakLabel=2e7d32" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol0404&layout=compact&theme=calm&bg_color=30,e8f5e9,c8e6c9,b2dfdb&title_color=2e7d32&text_color=1b5e20" width="48%" />
+</p>
+
 
 🌟 Fun Fact
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
