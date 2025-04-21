@@ -30,7 +30,7 @@ AI/ML, Cybersecurity, Automation, DevOps
 
 ---
 
-### 🚀 Badge Showcase
+### 🚀 Basic Badge Showcase
 
 <p align="center">  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">  
