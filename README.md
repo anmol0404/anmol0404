@@ -74,16 +74,6 @@ Interests	AI/ML, Cybersecurity, Automation, DevOps
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript">
   </li>
 </ul>
-
-<!-- 🌟 Contributions & Achievements -->
-<h2>🌟 Contributions & Achievements</h2>
-<ul>
-  <li>💻 Contributed to Node.js & Telegraf open-source projects.</li>
-  <li>🛠 Built scalable backend systems in hackathons.</li>
-  <li>🎥 Creating Node.js tutorials in Hindi (YouTube series).</li>
-  <li>🌐 DromaFlix live with 99.9% uptime & great feedback.</li>
-</ul>
-
 <!-- 🎯 Goals -->
 <h2>🎯 Goals Ahead</h2>
 <ul>
