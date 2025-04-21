@@ -1,4 +1,4 @@
-<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Aashish+Lakhlan+Full-Stack+Developer;AI+&+Automation+Wizard+🤖;Cybersecurity+Enthusiast+🔐" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/Dramorld-ggg.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 Building <b>scalable full-stack apps</b>, <b>AI-driven tools</b>, and <b>automation solutions</b> with a passion for innovation. 🌌 Transforming ideas into sleek, user-friendly experiences. 🔍 Exploring <b>AI/ML</b>, <b>Cybersecurity</b>, and <b>cutting-edge tech</b>. </p>
+<p align="center"> <img src="[Your-Logo-URL]" alt="Later" width="120" style="border-radius: 20%; box-shadow: 0 0 15px #00FFFF;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Aashish+Lakhlan+Full-Stack+Developer;AI+&+Automation+Wizard+🤖;Cybersecurity+Enthusiast+🔐" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/anmol0404"><img src="https://img.shields.io/badge/GitHub-anmol0404-181717?style=flat-square&logo=github" alt="GitHub"></a> <a href="mailto:[aashishanmol@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-FF5733?style=flat-square&logo=gmail" alt="Email"></a> <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat-square" alt="Portfolio"></a> <a href="https://dromaflix.in"><img src="https://img.shields.io/badge/DromaFlix-dromaflix.in-FFD700?style=flat-square" alt="Dromaflix"></a> </p> <p align="center"> 💻 Building <b>scalable full-stack apps</b>, <b>AI-driven tools</b>, and <b>automation solutions</b> with a passion for innovation. 🌌 Transforming ideas into sleek, user-friendly experiences. 🔍 Exploring <b>AI/ML</b>, <b>Cybersecurity</b>, and <b>cutting-edge tech</b>. </p>
 🧑‍💻 About Me
 💻 Full-Stack Developer with expertise in Node.js, MongoDB, and Next.js.
 🚀 Creator of bots, platforms, and tools that solve real-world problems.
@@ -23,7 +23,7 @@ A robust platform for college operations with role-based access.
 Features: Student registration, login, event tracking, attendance, marks, media gallery; Staff class management; Admin oversight.
 My Role: Built backend (Node.js, MongoDB) and designed frontend layouts (React, Tailwind).
 Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin" alt="Kotlin">
-🎬 Dramorld Website (Personal Project)
+🎬 DromaFlix Website (Personal Project)
 A full-stack platform for drama/anime enthusiasts.
 
 Features: Dynamic routing, responsive UI, genre/language filters, Telegram bot for downloads, SEO-optimized.
@@ -46,7 +46,7 @@ Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&lo
 Open-Source: Contributed to Node.js and Telegraf-related projects, enhancing bot functionality.
 Hackathons: Built real-time solutions in team settings, focusing on scalable backend systems.
 Content Creation: Developing a beginner-friendly Node.js YouTube series in Hindi to share knowledge.
-Milestone: Successfully deployed Dramorld Website with 99.9% uptime and positive user feedback.
+Milestone: Successfully deployed DromaFlix Website with 99.9% uptime and positive user feedback.
 🎯 Goals for 2025
 🔒 Develop cybersecurity tools for safer online experiences.
 🤖 Automate workflows with AI-driven solutions.
