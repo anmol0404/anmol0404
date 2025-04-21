@@ -113,7 +113,6 @@ AI/ML, Cybersecurity, Automation, DevOps
 <ul>
   <li>🔒 Build tools for online safety.</li>
   <li>🤖 Automate tasks with AI.</li>
-  <li>📚 Share beginner tutorials on Node.js, AI, automation.</li>
   <li>💡 Contribute to AI/ML open-source projects.</li>
 </ul>
 
@@ -128,9 +127,7 @@ AI/ML, Cybersecurity, Automation, DevOps
 </p>
 
 
-🌟 Fun Fact
+##🌟 Fun Fact
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-I love automating tasks so much, my bots might soon code for me! 😎
 
 <p align="center"> <i>Last updated: April 2025</i> </p>
